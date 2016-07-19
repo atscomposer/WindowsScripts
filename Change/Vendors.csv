@@ -1,0 +1,164 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser,,,,,
+Name,SamAccountName,manager,description,AccountExpirationDate,Password
+"Borges, Carlos Roberto",ab_cborges,"CN=Connors\, Lynn,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Amazing Brasil Vendor,5/16/2016 0:00,5EjxGWU6Jja7
+"Torello, Rodolfo",ab_rtorello,"CN=Connors\, Lynn,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Amazing Brasil Vendor,5/16/2016 0:00,yxZJWzgK3Kjs
+"Diez, Fernando",alferdi_fdiez,"CN=Connors\, Lynn,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Alferdi Vendor,5/16/2016 0:00,bWyHvZLVZt7d
+"Bokun, Pablo",alferdi_pbokun,"CN=Connors\, Lynn,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Alferdi Vendor,5/16/2016 0:00,THEBuh2A9Ev8
+"Machado, Rodrigo",alferdi_rmachado,"CN=Connors\, Lynn,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Alferdi Vendor,5/16/2016 0:00,RxYb7fjFqMpu
+"Weina, Du",aquastar_dweina,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Aquastar Vendor,1/1/2016 0:00,pktfGFefxMG1
+"Pei, Ge",aquastar_gpei,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Aquastar Vendor,1/1/2016 0:00,DxX5xrfd4HxE
+"Fu, Istone",aquastar_ifu,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Aquastar Vendor,1/1/2016 0:00,TyeUxBvwunK2
+"Gershon, Einav",art_egershon,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Aquatron Robotic Technology Vendor,1/1/2016 0:00,VwTUJ6ruc2CP
+"Yosef, Miri",art_myosef,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Aquatron Robotic Technology Vendor,1/1/2016 0:00,eQCJRTmf2u9A
+"Tsoran, Ofer",art_otsoran,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Aquatron Robotic Technology Vendor,1/1/2016 0:00,CyftfYRqs9JT
+benchmark,benchmark,,Benchmark factory account only for SUGV windchill access,,6X9VTeZHhMD9
+"Rizzitano, Carol",benchmark_crizzitano,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,MTjrU3HE9LV4
+"David, Donna",benchmark_ddavid,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Vendor/Supplier,6/10/2016 0:00,FKLMuXyytG5g
+"Fullerton, Donna",benchmark_dfullerton,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,64bLAQXmf4f3
+"Orzechowski, Dennis",benchmark_dorzechows,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,3nQXaCSFzefL
+"Couture, John",benchmark_jcouture,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,AyZFPuse5t2Y
+"Hewitt, Jim",benchmark_jhewitt,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,qZzpkfQwF4ex
+"Sieswerda, Ken",benchmark_ksieswerda,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,fVXz67GwdDcZ
+"Zhang, Keli",benchmark_kzhang,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,X7SwQ3C556wL
+"Lopez, Luis",benchmark_llopez,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,xDun3erkccGm
+"Naranjo, Melissa",benchmark_mnaranjo,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,QXBtSva7ruKD
+"Nocera, Philip",benchmark_pnocera,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,deHgWFb6jXEc
+"Lewis, Roy",benchmark_rlewis,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,9cFCZdARSunk
+"Normandin, Rachel",benchmark_rnormandin,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,FVXzqRzjjeg3
+"Pecukonis, Stephen",benchmark_specukonis,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,HkKsybrY4zS5
+"Nguyen, Tina",benchmark_tnguyen,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Benchmark Vendor,1/1/2016 0:00,zx32PATXhyUs
+"Hollwedell, Beverly",bhollwedell,,Jabil - St. Petersburg (Torname),,H5DpY6dwVzVd
+"Cooper, Ching",birst_ccooper,"CN=Banerjee\, Bhaskar,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com","Consultant, Professional Services, Birst Inc",8/16/2015 0:00,6xQbXxRrXgu6
+"Payne, William",birst_wpayne,"CN=Banerjee\, Bhaskar,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Birst Vendor,10/1/2015 0:00,WbvPHuXfgsM4
+"Familiar, Bob",bluemetal_bfamiliar,"CN=Banerjee\, Bhaskar,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Bluemetal Vendor,9/12/2015 0:00,BaDdq9LkeZQY
+"Morrissette, Brock",bmorrissette,,Polaris Vendor (Amberson),,9nDGhrNRv787
+"Tang, Cindy",byd_ctang,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",BYD Company Limited Vendor,1/1/2016 0:00,gg7BqsFJDpbW
+"Zhang, Danica",byd_dzhang,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Vendor/Supplier,12/31/2015 0:00,tRDTZrW9uDtU
+"Zhang, Merry",byd_mzhang,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",BYD Company Limited Vendor,1/1/2016 0:00,rme8cEpq4UgC
+"Zheng, Matthew",byd_mzheng,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Vendor/Supplier,,UUtyQukeFgt5
+"Lawrence, Barry",callpoint_blawrence,"CN=Abreu\, Maryellen,OU=Disabled Users,OU=Unmanaged,DC=wardrobe,DC=irobot,DC=com",Call Point Group Vendor,1/28/2016 0:00,f3asRS7QX9yu
+"Docheva, Elena",callpoint_edocheva,"CN=Abreu\, Maryellen,OU=Disabled Users,OU=Unmanaged,DC=wardrobe,DC=irobot,DC=com",Call Point Group Vendor,1/28/2016 0:00,qzuxHKnQUA6n
+"Duval, Ed",carousel_eduval,"CN=Smith\, Jason,OU=Disabled Users,OU=Unmanaged,DC=wardrobe,DC=irobot,DC=com",Carousel Vendor,,KHVCsRfB4Cws
+"King, Bob",cee_bking,"CN=Haskell\, Chad,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Capaccio Environmental Engineering Vendor,1/1/2016 0:00,67B5SM6qHc3R
+"Walsh, Colleen",cee_cwalsh,"CN=Haskell\, Chad,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Capaccio Environmental Engineering Vendor,1/1/2016 0:00,4gTgNYkTnRqa
+"Petit, AnnMarie",cirtronics_apetit,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Cirtronics Vendor,1/1/2016 0:00,jFnGUUzb3An9
+"Leavitt, Chris",cirtronics_cleavitt,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Cirtronics Vendor,1/1/2016 0:00,QtzMDnZkdtV6
+"McCall, Jim",cirtronics_jmccall,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Cirtronics Vendor,1/1/2016 0:00,fCYWQwx2gncS
+"Benuck, Laurie",cirtronics_lbenuck,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Cirtronics Vendor,1/1/2016 0:00,44sWySmwxFxC
+"Rotondi, Natalie",cirtronics_nrotondi,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Cirtronics Vendor,1/1/2016 0:00,Dz8awNUPAVyn
+"Herrera, Pablo",cirtronics_pherrera,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Cirtronics Vendor,1/1/2016 0:00,Mg3jzBTfCnc3
+"Simpson, Ryan",cirtronics_rsimpson,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Cirtronics Vendor,1/1/2016 0:00,jXjMus8Ud2rb
+"Langaigne, Joy",clearharbor_jlangaig,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Clear Harbor Vendor,9/1/2015 0:00,87WJ2Xx33npJ
+"Peters, Jahmanty",clearharbor_jpeters,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Clear Harbor Vendor,1/1/2016 0:00,v9m8hMxe5bh4
+"Noel, Linda",clearharbor_lnoel,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Clear Harbor Vendor,9/1/2015 0:00,LHSV6CByhmkg
+"Andrews, Tracy Ann",clearharbor_tandrews,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Clear Harbor Vendor,9/1/2015 0:00,Bh8qF2npvfGx
+"Egan, Vicki",clearharbor_vegan,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Clear Harbor Vendor,9/1/2015 0:00,Uy6Jngw9Y3sM
+CM Jabil,cm_jabil,,created by jdevaney for bli to send to rzhang and vxu for contract manufacturers,,nU9cmJm5YfDP
+CM Kin Yat,cm_kinyat,,SFTP account for the Kin Yat CM to retrieve files.,,dpmmyLtscDt7
+"Chen, Quiping",CMACGM_qchen,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com","CMA CDM Logistics (China) Co., Ltd Vendor",1/1/2016 0:00,2SVJ3epbKAcB
+"Song, Carol",csong,"CN=Li\, Brendon,OU=APAC,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Supplier - CMA CGM Logistics,1/1/2016 0:00,74M6v8a4TRyV
+Chunlin Wang,cwang,"CN=Yeung\, Fion,OU=APAC,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Vendor\Supplier,1/1/2016 0:00,FrQtBkXPVPs8
+"Yoder, Carla",cyoder,,GEM city employee with vpn to Oracle,,LQD6ADnEHZRy
+"Zatorski, Dave",Debron_dzatorski,,Debron Vendor,,G6xHjKSZeG2N
+"Connolly, Mike",debron_mconnolly,,Debron Vendor,,dqjnPdZaLxD9
+"Cracchiolo, Sal",Debron_scracchiolo,,Debron Vendor,,nMS4rQjADNc8
+"Brown, Bob",gemcity_bbrown,,Gem City Vendor,,3K78U7L7zZCy
+"Mckee, Bob",gemcity_bmckee,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Gem City Vendor,1/1/2016 0:00,a3pp8SZ3XaMk
+"King, Don",gemcity_dking,,Gem City Vendor,,F7f3pB4gmbSU
+"McKitrick, David",gemcity_dmckitrick,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Gem City Vendor,1/1/2016 0:00,4v45TLYg6GnD
+"Dehart, Jeremy",gemcity_jdehart,,Gem City Vendor,,xxTPgdMzBj8R
+"Spence, Karen",gemcity_kspence,,Gem City Vendor,,CBLNC87VkZEw
+"Schmidt, Mike",gemcity_mschmidt,,Gem City Vendor,,q3fbX6Tj3Wvy
+"Gilbert, Tim",gemcity_tgilbert,,Gem City Vendor,,nkrN5nN5shAy
+"Volman, Brian",gsi_bvolman,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",GSI Vendor,1/1/2016 0:00,BrgzV2wpBBHq
+"Haynes, Cassandra",gsi_chaynes,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",GSI Vendor,1/1/2016 0:00,yKVmk3bJJ6dd
+"Duell, James",gsi_jduell,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",GSI Vendor,1/1/2016 0:00,LCy7Pm8RSrMP
+"Riggins, Joshua",gsi_jriggins,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",GSI Vendor,1/1/2016 0:00,k9Zez7qgQRZS
+"Ferro, Mark",guidepoint_mferro,"CN=Thatavarthy\, Ravi,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Security Architect,10/1/2015 0:00,d5JJ5HkVNRdT
+"Wilcox, Nathan",guidepoint_nwilcox,"CN=Thatavarthy\, Ravi,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Senior Security Architect,10/1/2015 0:00,xmGefxDLS6hC
+"Shen, Alexander",hi-p_ashen,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,YYeppsDt7EVk
+"Yao, Becky",hi-p_byao,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,4RtQRhwsEzNK
+"Shen, Carrie",hi-p_cshen,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,YCSHzYt4PF7u
+"Chen, Huang",hi-p_hchen,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,bZYwJpRAnPv1
+"Ren, Jenny",hi-p_jren,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,Dfd8YN54acTV
+"Ang, Ken",hi-p_kang,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,Fh5qDm7SQetf
+"Guan, Kelly",hi-p_kguan,"CN=Li\, Brendon,OU=APAC,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,wmn3aWWnzURa
+"Xu, Lei",hi-p_lxu,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,PveB9Yu45jBn
+"Penn, Song",hi-p_spenn,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,YMpzcLbeRYq2
+"Tian, Sandy",hi-p_stian,"CN=Li\, Brendon,OU=APAC,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,27TjeubfADNf
+"Chen, Temple",hi-p_tchen,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,gQdN5RWuc2Zk
+"Zhu, Ted",hi-p_tzhu,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P Vendor,1/1/2016 0:00,f3E6p3XmJAmY
+"Yong, Chris",hi-pinternational_cy,"CN=Zamorano\, Oscar,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Hi-P International Vendor,1/1/2016 0:00,6DZ6Jf4qnwe6
+Receptionists,HPS_receptionist,"CN=Haskell\, Chad,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Concierge/Receptionist,,kZ6kVGsbBHLr
+"Holtzworth, Anne",hs_aholtzworth,"CN=Angle\, Tim,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Consultant,1/9/2016 0:00,ThM7aDZELyse
+"Rosado, Edgar",importadora_erosado,"CN=Connors\, Lynn,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Importadora Vendor,5/16/2016 0:00,k7ePTVraY7r6
+"Braun, Gabriel",importadora_gbraun,"CN=Connors\, Lynn,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Importadora Vendor,5/16/2016 0:00,EQmsVtedvcH3
+"Ceriello, Brandi",ims_bceriello,"CN=Lyons\, Christopher,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Intelligent Manufacturing Solutions Vendor,4/23/2016 0:00,BYy9yvFFfnnU
+"Lynch, Kelli",ims_klynch,"CN=Lyons\, Christopher,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Intelligent Manufacturing Solutions Vendor,4/23/2016 0:00,7GJB2NkXt5VK
+"Williams, Michael",jab_mwilliams,"CN=Zamorano\, Oscar,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Project Manager,1/1/2016 0:00,ayRVPrV87JGE
+"Man, Alan",jabil_aman,"CN=Li\, Philip,OU=APAC,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Jabil Vendor,1/1/2016 0:00,EEBEJY5BnGuJ
+"Sun, Bill",jabil_bsun,"CN=Lu\, Frank,OU=APAC,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Jabil Vendor,1/1/2016 0:00,rnSbqzgxknB4
+"Yao, Christy",jabil_cyao,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Jabil Vendor,1/1/2016 0:00,6XWeV4PVmsqv
+"Zhong, Dongmei",jabil_dzhong,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Jabil Vendor,1/1/2016 0:00,ztgSE2C7VqD6
+"Mao, Elaine",jabil_emao,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Jabil Vendor,1/1/2016 0:00,MbKyKgtP3MRE
+"Chow, Joey",jabil_jchow,"CN=Li\, Philip,OU=APAC,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Jabil Vendor,1/1/2016 0:00,mzp2FtT7gQtD
+"Willis, Katherine",jay_kwillis,"CN=Shaughnessy\, Linda,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Vendor/Supplier,4/15/2016 0:00,F8ysjvPcnHdd
+"Musser, Angie",jaygroup_amusser,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",The Jay Group Vendor,9/1/2015 0:00,kGe45DRLkuat
+"Hileman, Dan",jaygroup_dhileman,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",The Jay Group Vendor,1/1/2016 0:00,Rb8cRT4E4RNs
+"Chittick, Jay",jaygroup_jchittick,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",The Jay Group Vendor,4/15/2016 0:00,PdqwsKJ3B94z
+"Weaver, Jeanette",jaygroup_jweaver,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",The Jay Group Vendor,1/1/2016 0:00,6qeRmGmzHv68
+"Blantz, Lauren",jaygroup_lblantz,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",The Jay Group Vendor,6/2/2016 0:00,wAfEQQ9KEb8D
+"Cornwall, Sean",jaygroup_scornwall,"CN=Marino\, Nilsa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",The Jay Group Vendor,1/1/2016 0:00,3jpp2fkHEufx
+"Chau, Judy",jchau,,Jabil - St. Petersburg (Torname),,bv8YzgguALsw
+"Ge, Jenny",jge,"CN=Li\, Philip,OU=APAC,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Supplier - CMA CGM Logistics,1/1/2016 0:00,KqNLbaTPJDf5
+"Li, Jackson",jli,"CN=Li\, Brendon,OU=APAC,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Supplier - CMA CGM Logistics,1/1/2016 0:00,XLzcf2sC7DQW
+"Liu, Jia",jliu,,Vendor Jabil,,M8rGAVuEeQkh
+"Marcouillier, Joe",jmarcouillier,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Mechanical Engineer,8/5/2016 0:00,3V9GF6QNSayv
+"Su, Monica",kinpo_msu,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Kinpo Electronics Vendor,1/1/2016 0:00,c7aEs6bLmQTj
+"Ha, Suen",kinyat_sha,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Kin Yat Industrial Co Ltd Vendor,1/1/2016 0:00,4w93SteHZ9dj
+"Macrine, Kelly",kmacrine,,Jabil - St. Petersburg (Torname),,zN5W5j7h3gp9
+"Test, Lee",ltest,,GEM city employee with vpn access to Oracle,,BM2PfqJ4QMuQ
+"Daniels, Brice",mandiant_bdaniels,"CN=Thatavarthy\, Ravi,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Mandiant Supplier,9/1/2015 0:00,wKDEhHA9YXRg
+"House, Fred",mandiant_fhouse,"CN=Thatavarthy\, Ravi,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Mandiant Supplier,9/1/2015 0:00,4RtXKaydRhTy
+"Graham, Melissa",mgraham,,Benchmark Contractor,,GcaNKEsWpFs6
+"Overly, Matt",moverly,"CN=Kaminski\, Ashley,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Supplier - The Jay Group,1/1/2016 0:00,rtSW8Rn277Dj
+"Sturges, Melissa",msturges,,Benchmark Vendor,,56FNmnWJAgz9
+"Mahallati, Ali",NREC_amahallati,"CN=Jolliffe\, Brian,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Vendor,2/16/2016 0:00,yFNNUejvA8Gb
+"Cooper, Derek",NREC_dcooper,"CN=Jolliffe\, Brian,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Vendor,2/16/2016 0:00,FN5uCvGdemrS
+"Wheeler, Nancy",nwheeler,,Benchmark Vendor,,W8A8WtL73Nyx
+"Belliveau, Phillip",pbelliveau,,Polaris Vendor (Amberson),,fRkBppTBJ4bu
+"Foley, John",pol_jfoley,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Vendor,8/5/2016 0:00,qnkE4w6Vt4yc
+Polaris,polaris,,,,zaFsdvHmUud7
+"Santoro, Annalisa",Polaris_asantoro,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Polaris Vendor,3/2/2016 0:00,mMeSA3HtCAcc
+"Jannarelli, Domenic",Polaris_djannarelli,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Polaris Vendor,3/2/2016 0:00,5eXHKWqbUJzj
+"Zinck, Jon",polaris_jzinck,"CN=Amberson\, Jeff,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Polaris Vendor (Amberson),9/1/2015 0:00,SBvZDYHq2aLR
+"Hood, Patti",Polaris_phood,"CN=Tormane\, Michael,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Polaris Vendor,3/2/2016 0:00,LHtGbWm5WGf8
+"Nye, Michael",ProActive_mnye,"CN=Jolliffe\, Brian,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Supplier,1/1/2016 0:00,DcW74zsd9PNp
+"El-Fata, Nadim",pulse_nelfata,"CN=McSweeney\, David,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Vendor,1/1/2016 0:00,9aEH3muLRARM
+"Einhaus, Gregory",pwc_geinhaus,"CN=Dyson\, David,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",PWC Auditor,4/1/2016 0:00,n7bbHTUzYB8q
+"Kelly, Jason",pwc_jkelly,"CN=Dyson\, David,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",PWC Auditor,4/1/2016 0:00,FyZxbmwnJdT8
+"Levy, Megan",pwc_mlevy,"CN=Dyson\, David,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",PWC Auditor,4/1/2016 0:00,q9pw7nJwjKkx
+"Kates, Samuel",pwc_skates,"CN=Dyson\, David,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",PWC Auditor,4/1/2016 0:00,CsGyAMBkgea6
+"Morency, Scott",pwc_smorency,"CN=Dyson\, David,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",PWC Auditor,4/1/2016 0:00,yNYZdVVK6fyX
+"Mosher, Richard",rmosher,,Jabil - St. Petersburg (Torname),,SUZXP4G6ytHf
+"Donohue, Rob",rolta_rdonohue,,Rolta International Vendor,12/22/2012 0:00,ajYCK4jFejxc
+"Li, Sarah",sli,"CN=Li\, Brendon,OU=APAC,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Supplier - CMA CGM Logistics,1/1/2016 0:00,PsmsrY2JNDbA
+"Lam, Pan",smerp_plam,"CN=Teal\, James,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Vendor,9/26/2015 0:00,g5WwrzcdPpSm
+"Yamamoto, Chiharu",sodc_cyamamoto,"CN=O'Dea\, Melissa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",SODC Vendor,1/1/2016 0:00,VuhNvRYTPcd9
+"Yamauchi, Hiroshi",sodc_hyamauchi,"CN=O'Dea\, Melissa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",SODC Vendor,1/1/2016 0:00,tw2vqRJSRrkr
+"Fujita, Kaori",sodc_kfujita,"CN=O'Dea\, Melissa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",SODC Vendor,1/1/2016 0:00,mApQ9TyWATma
+"Ichikawa, Manabu",sodc_michikawa,"CN=O'Dea\, Melissa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",SODC Vendor,1/1/2016 0:00,Xaksp3FaaEsm
+"Kurokawa, Shiro",sodc_skurokawa,"CN=O'Dea\, Melissa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",SODC Vendor,1/1/2016 0:00,fHbNYT6x7ryg
+"Matsunami, Tomohiro",sodc_tmatsunami,"CN=O'Dea\, Melissa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",SODC Vendor,1/1/2016 0:00,d97dMgequH9B
+"Mochizuki, Yojiro",sodc_ymochizuki,"CN=O'Dea\, Melissa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",SODC Vendor,1/1/2016 0:00,SNRcsPxePh5r
+"Nezu, Yuka",sodc_ynezu,"CN=O'Dea\, Melissa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",SODC Vendor,1/1/2016 0:00,xnnEmvHRWuL9
+"Otsuka, Yasuko",sodc_yotsuka,"CN=O'Dea\, Melissa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",SODC Vendor,1/1/2016 0:00,WuLgZeA9WE2G
+"Sone, Yasushi",sodc_ysone,"CN=O'Dea\, Melissa,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",SODC Vendor,1/1/2016 0:00,rBj7LXax2wZH
+"Vaillancourt, Scott",svaillancourt,,Benchmark Vendor,,bRzvGFVBkHU1
+"Vargas, Stephen",svargas,,Polaris Vendor (Amberson),9/1/2015 0:00,A6pgDh7eWz5D
+"Zhang, Shirley",szhang,"CN=Dines\, Robert,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Supplier - Kin Yat,1/1/2016 0:00,RA3mbTvhpJb4
+"Eckerson, Ted",teckerson,,Jabil - St. Petersburg (Torname),,rr8eCE8EezFQ
+"Wan, Tony",twan,,Vendor Jabil,,z3ELd68PfZy5
+Richard Ding,vnd_di_rding,,Data Intensity Employee (SQL DBA),,mJmtkLb8FWjB
+Habib Tber,vnd_htber,,Data Intensity Employee (SQL DBA),,B4Zhhev2eED5
+"Harris, Patrick",workbench_pharris,"CN=Nogueira\, Joseph,OU=**Employees,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com",Workbench Vendor,11/1/2015 0:00,P6BYuw33mFzw

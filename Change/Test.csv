@@ -1,0 +1,3 @@
+sAMAccountName,Password,Display Name,DN
+testlongname2,5EjxGWU6Jja7,TestLong LongName2,"CN=TestLong LongName2,OU=**Vendors,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com"
+testname,yxZJWzgK3Kjs,TestShort Name,"CN=TestShort Name,OU=**Vendors,OU=iRobot Users,DC=wardrobe,DC=irobot,DC=com"

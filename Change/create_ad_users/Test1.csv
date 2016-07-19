@@ -1,0 +1,4 @@
+userPrincipalName,sAMAccountName,givenName,displayName,sn,description,department,userAccountControl
+TAbbott_install,TAbbott_install,Tim,"Abbott, Tim",Abbott,Principal Infrastructure Engineer,Information Technology,512
+KAboushhiwa_install,KAboushhiwa_install,Khalid,"Aboushhiwa, Khalid",Aboushhiwa,Principal Power Electrical Engineer,Engineering,512
+maximoabreu_install,maximoabreu_install,Max,"Abreu, Max",Abreu,-,Engineering,512
