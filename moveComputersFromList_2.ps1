@@ -27,12 +27,15 @@ Catch
 #STATIC VARIABLES
 #----------------------------------------------------------
 $path        = "\\HQ-SCCMFS-01\Packages\Scripts"
+$log         = $path + "\lastlogon1-2yearsago.log"
 $logSuccess  = $path + "\moveComputersSuccess.log"
 $logFail     = $path + "\moveComputersFail.log"
 $date        = Get-Date
-$Computers   = Get-ADComputer -SearchBase "OU=Workstations,OU=iRobot Computers,DC=wardrobe,DC=irobot,DC=com" -Filter {lastLogonDate -le "8/24/2013"}
-$TargetOU    = "OU=Old Workstations,OU=Unmanaged,DC=wardrobe,DC=irobot,DC=com"
+$filterDate  = (Get-Date).AddDays(-365)
+$Computers   = Get-ADComputer -SearchBase "OU=Workstations,OU=iRobot Computers,DC=wardrobe,DC=irobot,DC=com" -Filter {lastLogonDate -le $filterDate}
+$TargetOU    = "OU=2014,OU=Old Workstations,OU=Unmanaged,DC=wardrobe,DC=irobot,DC=com"
 
+$Computers | Out-File $log -Append
 
 #----------------------------------------------------------
 #FUNCTIONS
