@@ -2,7 +2,7 @@
 # AUTHOR  : Adam Shuttleworth
 # DATE    : 08-05-2015
 # EDIT    : 
-# COMMENT : This script changes password of
+# COMMENT : This script changes password for users in
 #          certain users found in a CSV file.
 # VERSION : 1.0
 ###########################################################
@@ -28,7 +28,7 @@ Catch
 #----------------------------------------------------------
 $path     = "\\HQ-SCCMFS-01\Packages\Scripts\Change"
 $log      = $path + "\change_v1.log"
-$csv      = $path + "\Book2.csv"
+$csv      = $path + "\PassChange.csv"
 $date     = Get-Date
 #----------------------------------------------------------
 #START FUNCTIONS
